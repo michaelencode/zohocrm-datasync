@@ -9,3 +9,11 @@ Below is a basic outline of how the data sync tool will work to pull data from o
 * Data Transformation and Validation (optional)
 * Data Upload to Zoho CRM
 * Scheduling and Automation
+
+##Key Features:
+
+* Automated data synchronization between your SQL database and Zoho CRM
+* Optional data transformation and validation to ensure data integrity and compliance with Zoho CRM's format requirements
+* Robust error handling, logging, and retry mechanisms for reliable data transfer
+* Scheduling and automation capabilities to run the sync process at predefined intervals
+* Two implementation options: Local Host and Microsoft Azure Cloud, catering to different organizational requirements and preferences
